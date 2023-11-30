@@ -17,7 +17,7 @@ driver = webdriver.Chrome(options=chrome_options)
 url = 'https://www.sharesansar.com/company/nmb#cpricehistory' #change stock link
 driver.get(url)
 
-# Find and click the link by ID (replace 'your-link-id' with the actual ID)
+# Find and click the link by ID (replace  with the actual ID)
 link = WebDriverWait(driver, 15).until(EC.element_to_be_clickable((By.ID, 'btn_cpricehistory')))
 link.click()
 
