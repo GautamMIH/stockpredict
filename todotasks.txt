@@ -1,0 +1,7 @@
+Predict and Save the values to a database lstmk
+Predict and save the values to a database simple_moving_average
+Created the weighted average and assign suitable term(Increase and Decrease)
+
+
+
+Create different value and measure the accuracy of the predictions
