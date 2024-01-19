@@ -14,14 +14,14 @@ chrome_options.add_argument('--disable-dev-shm-usage')  # Added to resolve poten
 
 # Set up the Chrome webdriver with the provided ChromeDriver in Colab
 driver = webdriver.Chrome(options=chrome_options)
-url = 'https://www.sharesansar.com/company/nlicl' #change stock link
+url = 'https://www.sharesansar.com/company/pmli' #change stock link
 driver.get(url)
 
 # Find and click the link by ID (replace 'your-link-id' with the actual ID)
 link = WebDriverWait(driver, 15).until(EC.element_to_be_clickable((By.ID, 'btn_cpricehistory')))
 link.click()
 
-with open('NLICL.csv', 'w', newline='') as csv_file: #change csv name
+with open('PMLI.csv', 'w', newline='') as csv_file: #change csv name
     csv_writer = csv.writer(csv_file)
 
 # Find the table with id 'myTableCPriceHistory' on each iteration
