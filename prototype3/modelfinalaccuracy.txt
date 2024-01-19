@@ -1,13 +1,14 @@
 SYMBOL, LSTM, SMA
 ALICL, 30, 15
+CLI, - , 5
+HLI, 20, 5
+ILI, 10,15 
+LICN, 40, 5
 NLIC, 60, 5 
 NLICL, 60, 5
-LICN, 40, 5
-ILI, 20 ,15 
-RNLI,- , 5
-SNLI, -, 10
-CLI, 30 , 5
-SJLIC, 30, 5
-HLI, 20, 5
-SRLI, - , 5
 PMLI, -, 2
+RNLI,- , 5
+SJLIC, 30, 5
+SNLI, -, 10
+SRLI, - , 5
+
