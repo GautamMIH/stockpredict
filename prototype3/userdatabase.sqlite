@@ -1,0 +1,8 @@
+-- userdatabase.sql
+
+CREATE TABLE IF NOT EXISTS users (
+    UserID INTEGER PRIMARY KEY AUTOINCREMENT,
+    email TEXT NOT NULL,
+    password TEXT NOT NULL,
+    sessionID TEXT
+);
