@@ -66,7 +66,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if ($sessionID) {
             // Set the session ID as a cookie and respond with success
             setcookie('sessionID', $sessionID, time() + 3600, "/"); // Adjust the expiration time as needed
-            echo json_encode(['success' => true, 'message' => 'Login successful']);
+            echo json_encode(['success' => true, 'message' => 'Login successful', 'session_id'=> $sessionID]);
         } else {
             echo json_encode(['success' => false, 'message' => 'Invalid email or password']);
         }
