@@ -23,7 +23,7 @@ function authenticateUser($email, $password) {
     $hashedPassword = md5($password);
 
     // Check if the user exists with the given credentials
-    $query = "SELECT * FROM users WHERE email = :email AND password = :password";
+    $query = "SELECT UserID FROM users WHERE email = :email AND password = :password";
     $stmt = $db->prepare($query);
     $stmt->bindValue(':email', $email, SQLITE3_TEXT);
     $stmt->bindValue(':password', $hashedPassword, SQLITE3_TEXT);
@@ -50,6 +50,7 @@ function authenticateUser($email, $password) {
         return false; // Invalid credentials
     }
 }
+
 
 // Handle the login request
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
