@@ -14,7 +14,7 @@ chrome_options.add_argument('--disable-dev-shm-usage')  # Added to resolve poten
 
 # Set up the Chrome webdriver with the provided ChromeDriver in Colab
 driver = webdriver.Chrome(options=chrome_options)
-psymbol = 'alicl'
+psymbol = 'nlicl'
 url = f'https://www.sharesansar.com/company/{psymbol}'
 driver.get(url)
 
@@ -56,7 +56,7 @@ query = f'''
 cursor.execute(query)
 
 while True:
-    time.sleep(5)
+    time.sleep(3)
     # Find the table with id 'myTableCPriceHistory' on each iteration
     table = WebDriverWait(driver, 30).until(EC.presence_of_element_located((By.ID, 'myTableCPriceHistory')))
 
