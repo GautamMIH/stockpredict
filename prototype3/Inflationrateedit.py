@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Read the CSV file into a DataFrame
-df = pd.read_csv('C:/Users/grim/Desktop/stockpredict/SRLI.csv')
+df = pd.read_csv('C:/Users/grim/OneDrive/Desktop/stockpredict/ALICL.csv')
 
 # Extract the year from the "Date" column and create a new "Inflation Rate" column
 df['Year'] = pd.to_datetime(df['Date']).dt.year
