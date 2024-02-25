@@ -1,0 +1,867 @@
+{
+	"draw": 1,
+	"recordsTotal": 86,
+	"recordsFiltered": 86,
+	"data": [
+		{
+			"name": "Naasa Securities Co. Ltd.",
+			"number": "58",
+			"buyerAmount": "165462035.50",
+			"sellerAmount": "153342122.50",
+			"differ": 12119913,
+			"matchingAmount": "14692074.80",
+			"totalAmount": "318804158.00",
+			"DT_Row_Index": 1
+		},
+		{
+			"name": "Vision Securities Pvt.Limited",
+			"number": "34",
+			"buyerAmount": "146410671.15",
+			"sellerAmount": "166148492.40",
+			"differ": -19737821.25,
+			"matchingAmount": "13154297.20",
+			"totalAmount": "312559163.55",
+			"DT_Row_Index": 2
+		},
+		{
+			"name": "Imperial Securities Co .Pvt.Limited",
+			"number": "45",
+			"buyerAmount": "124989106.90",
+			"sellerAmount": "116327665.08",
+			"differ": 8661441.820000008,
+			"matchingAmount": "10703493.40",
+			"totalAmount": "241316771.98",
+			"DT_Row_Index": 3
+		},
+		{
+			"name": "Sani Securities Company Limited",
+			"number": "42",
+			"buyerAmount": "113051081.50",
+			"sellerAmount": "104654323.60",
+			"differ": 8396757.900000006,
+			"matchingAmount": "4385841.60",
+			"totalAmount": "217705405.10",
+			"DT_Row_Index": 4
+		},
+		{
+			"name": "Online Securities Limited",
+			"number": "49",
+			"buyerAmount": "96226462.00",
+			"sellerAmount": "110802606.65",
+			"differ": -14576144.650000006,
+			"matchingAmount": "5541594.20",
+			"totalAmount": "207029068.65",
+			"DT_Row_Index": 5
+		},
+		{
+			"name": "Sri Hari Securities Pvt.Ltd",
+			"number": "56",
+			"buyerAmount": "55235650.70",
+			"sellerAmount": "122047771.20",
+			"differ": -66812120.5,
+			"matchingAmount": "2287726.00",
+			"totalAmount": "177283421.90",
+			"DT_Row_Index": 6
+		},
+		{
+			"name": "ABC Securities Pvt. Limited",
+			"number": "17",
+			"buyerAmount": "64907356.80",
+			"sellerAmount": "106925633.90",
+			"differ": -42018277.10000001,
+			"matchingAmount": "3202859.60",
+			"totalAmount": "171832990.70",
+			"DT_Row_Index": 7
+		},
+		{
+			"name": "Agrawal Securities Pvt. Limited",
+			"number": "6",
+			"buyerAmount": "126097634.10",
+			"sellerAmount": "41036860.20",
+			"differ": 85060773.89999999,
+			"matchingAmount": "1346575.60",
+			"totalAmount": "167134494.30",
+			"DT_Row_Index": 8
+		},
+		{
+			"name": "Arya Tara Investment And Securities Pvt. Ltd.",
+			"number": "57",
+			"buyerAmount": "89313901.80",
+			"sellerAmount": "73782289.30",
+			"differ": 15531612.5,
+			"matchingAmount": "3668827.40",
+			"totalAmount": "163096191.10",
+			"DT_Row_Index": 9
+		},
+		{
+			"name": "Dipshika Dhitopatra Karobar Co. Pvt.Limited",
+			"number": "38",
+			"buyerAmount": "83769718.20",
+			"sellerAmount": "73272487.50",
+			"differ": 10497230.700000003,
+			"matchingAmount": "4413095.80",
+			"totalAmount": "157042205.70",
+			"DT_Row_Index": 10
+		},
+		{
+			"name": "Stock Broker Opal Securities Investment Pvt. Limited",
+			"number": "4",
+			"buyerAmount": "34472023.00",
+			"sellerAmount": "115001566.20",
+			"differ": -80529543.2,
+			"matchingAmount": "1164264.00",
+			"totalAmount": "149473589.20",
+			"DT_Row_Index": 11
+		},
+		{
+			"name": "Dynamic Money Managers Securities Pvt.Ltd",
+			"number": "44",
+			"buyerAmount": "63967557.20",
+			"sellerAmount": "82441159.00",
+			"differ": -18473601.799999997,
+			"matchingAmount": "9006276.00",
+			"totalAmount": "146408716.20",
+			"DT_Row_Index": 12
+		},
+		{
+			"name": "Kohinoor Investment and Securities Pvt.Ltd",
+			"number": "35",
+			"buyerAmount": "63200911.60",
+			"sellerAmount": "83006393.80",
+			"differ": -19805482.199999996,
+			"matchingAmount": "3704733.40",
+			"totalAmount": "146207305.40",
+			"DT_Row_Index": 13
+		},
+		{
+			"name": "Sumeru Securities Pvt.Limited",
+			"number": "39",
+			"buyerAmount": "66845450.50",
+			"sellerAmount": "64141070.72",
+			"differ": 2704379.780000001,
+			"matchingAmount": "1717982.00",
+			"totalAmount": "130986521.22",
+			"DT_Row_Index": 14
+		},
+		{
+			"name": "Shree Krishna Securities Limited",
+			"number": "28",
+			"buyerAmount": "42703067.44",
+			"sellerAmount": "87630428.90",
+			"differ": -44927361.46000001,
+			"matchingAmount": "2674525.80",
+			"totalAmount": "130333496.34",
+			"DT_Row_Index": 15
+		},
+		{
+			"name": "Linch Stock Market Limited",
+			"number": "41",
+			"buyerAmount": "58598124.50",
+			"sellerAmount": "71040977.80",
+			"differ": -12442853.299999997,
+			"matchingAmount": "1137241.20",
+			"totalAmount": "129639102.30",
+			"DT_Row_Index": 16
+		},
+		{
+			"name": "Nepal Stock House Pvt. Limited",
+			"number": "14",
+			"buyerAmount": "63192100.40",
+			"sellerAmount": "58385119.60",
+			"differ": 4806980.799999997,
+			"matchingAmount": "5777811.00",
+			"totalAmount": "121577220.00",
+			"DT_Row_Index": 17
+		},
+		{
+			"name": "Premier Securites Company Limited",
+			"number": "32",
+			"buyerAmount": "65748029.89",
+			"sellerAmount": "52096445.90",
+			"differ": 13651583.990000002,
+			"matchingAmount": "1470601.80",
+			"totalAmount": "117844475.79",
+			"DT_Row_Index": 18
+		},
+		{
+			"name": "Dakshinkali Investment Securities Pvt.Limited",
+			"number": "33",
+			"buyerAmount": "54376937.20",
+			"sellerAmount": "54977380.10",
+			"differ": -600442.8999999985,
+			"matchingAmount": "4634338.00",
+			"totalAmount": "109354317.30",
+			"DT_Row_Index": 19
+		},
+		{
+			"name": "South Asian Bulls Pvt.Limited",
+			"number": "43",
+			"buyerAmount": "62928562.50",
+			"sellerAmount": "42428421.50",
+			"differ": 20500141,
+			"matchingAmount": "2608928.80",
+			"totalAmount": "105356984.00",
+			"DT_Row_Index": 20
+		},
+		{
+			"name": "Primo Securities Pvt. Limited",
+			"number": "16",
+			"buyerAmount": "54968867.30",
+			"sellerAmount": "47332574.90",
+			"differ": 7636292.3999999985,
+			"matchingAmount": "1657139.60",
+			"totalAmount": "102301442.20",
+			"DT_Row_Index": 21
+		},
+		{
+			"name": "Trishul Securities And Investment Limited",
+			"number": "29",
+			"buyerAmount": "50977765.90",
+			"sellerAmount": "47478070.75",
+			"differ": 3499695.1499999985,
+			"matchingAmount": "1271766.00",
+			"totalAmount": "98455836.65",
+			"DT_Row_Index": 22
+		},
+		{
+			"name": "Capital Max Securities Limited",
+			"number": "62",
+			"buyerAmount": "55770636.10",
+			"sellerAmount": "42456800.60",
+			"differ": 13313835.5,
+			"matchingAmount": "3402054.00",
+			"totalAmount": "98227436.70",
+			"DT_Row_Index": 23
+		},
+		{
+			"name": "Siprabi Securities Pvt. Limited",
+			"number": "22",
+			"buyerAmount": "55388572.80",
+			"sellerAmount": "40189733.40",
+			"differ": 15198839.399999999,
+			"matchingAmount": "445335.00",
+			"totalAmount": "95578306.20",
+			"DT_Row_Index": 24
+		},
+		{
+			"name": "Deevyaa Securities &amp; Stock House Pvt. Ltd",
+			"number": "59",
+			"buyerAmount": "48989607.50",
+			"sellerAmount": "44319152.20",
+			"differ": 4670455.299999997,
+			"matchingAmount": "2712954.00",
+			"totalAmount": "93308759.70",
+			"DT_Row_Index": 25
+		},
+		{
+			"name": "Bhrikuti Stock Broking Co. Pvt. Ltd.",
+			"number": "55",
+			"buyerAmount": "47788993.30",
+			"sellerAmount": "42450262.80",
+			"differ": 5338730.5,
+			"matchingAmount": "2915685.20",
+			"totalAmount": "90239256.10",
+			"DT_Row_Index": 26
+		},
+		{
+			"name": "Sharepro Securities Private Limited",
+			"number": "65",
+			"buyerAmount": "41012770.60",
+			"sellerAmount": "47339229.20",
+			"differ": -6326458.6000000015,
+			"matchingAmount": "238992.00",
+			"totalAmount": "88351999.80",
+			"DT_Row_Index": 27
+		},
+		{
+			"name": "Sweta Securities Pvt. Limited",
+			"number": "25",
+			"buyerAmount": "44023401.40",
+			"sellerAmount": "41670820.50",
+			"differ": 2352580.8999999985,
+			"matchingAmount": "1296524.00",
+			"totalAmount": "85694221.90",
+			"DT_Row_Index": 28
+		},
+		{
+			"name": "Trishakti Securities Public Limited",
+			"number": "48",
+			"buyerAmount": "37388605.28",
+			"sellerAmount": "47454260.00",
+			"differ": -10065654.719999999,
+			"matchingAmount": "1891159.20",
+			"totalAmount": "84842865.28",
+			"DT_Row_Index": 29
+		},
+		{
+			"name": "Crystal Kanchenjunga Securities Pvt.Ltd",
+			"number": "50",
+			"buyerAmount": "31601723.90",
+			"sellerAmount": "50662828.70",
+			"differ": -19061104.800000004,
+			"matchingAmount": "745734.20",
+			"totalAmount": "82264552.60",
+			"DT_Row_Index": 30
+		},
+		{
+			"name": "Neev Securities Pvt.Ltd",
+			"number": "47",
+			"buyerAmount": "42547813.80",
+			"sellerAmount": "36925822.50",
+			"differ": 5621991.299999997,
+			"matchingAmount": "1695320.00",
+			"totalAmount": "79473636.30",
+			"DT_Row_Index": 31
+		},
+		{
+			"name": "Secured Securities Limited",
+			"number": "36",
+			"buyerAmount": "42406439.10",
+			"sellerAmount": "36795668.80",
+			"differ": 5610770.3000000045,
+			"matchingAmount": "1040832.80",
+			"totalAmount": "79202107.90",
+			"DT_Row_Index": 32
+		},
+		{
+			"name": "Nepal Investment &amp; Securities Trading Pvt. Limited",
+			"number": "19",
+			"buyerAmount": "37599116.30",
+			"sellerAmount": "40983276.30",
+			"differ": -3384160,
+			"matchingAmount": "207600.60",
+			"totalAmount": "78582392.60",
+			"DT_Row_Index": 33
+		},
+		{
+			"name": "Midas Stock Broking Company Pvt. Limited",
+			"number": "21",
+			"buyerAmount": "36466987.16",
+			"sellerAmount": "41047023.90",
+			"differ": -4580036.740000002,
+			"matchingAmount": "715554.20",
+			"totalAmount": "77514011.06",
+			"DT_Row_Index": 34
+		},
+		{
+			"name": "Oxford Securities Pvt.Ltd",
+			"number": "51",
+			"buyerAmount": "34866081.70",
+			"sellerAmount": "37672668.10",
+			"differ": -2806586.3999999985,
+			"matchingAmount": "604724.00",
+			"totalAmount": "72538749.80",
+			"DT_Row_Index": 35
+		},
+		{
+			"name": "Sundhara Securities Limited",
+			"number": "52",
+			"buyerAmount": "32500273.00",
+			"sellerAmount": "34285970.90",
+			"differ": -1785697.8999999985,
+			"matchingAmount": "1152453.00",
+			"totalAmount": "66786243.90",
+			"DT_Row_Index": 36
+		},
+		{
+			"name": "Asian Securities Pvt. Limited",
+			"number": "26",
+			"buyerAmount": "40323503.30",
+			"sellerAmount": "26116705.60",
+			"differ": 14206797.699999996,
+			"matchingAmount": "1405430.00",
+			"totalAmount": "66440208.90",
+			"DT_Row_Index": 37
+		},
+		{
+			"name": "INDEX SECURITIES LIMITED",
+			"number": "69",
+			"buyerAmount": "38096406.80",
+			"sellerAmount": "27421803.60",
+			"differ": 10674603.199999996,
+			"matchingAmount": "1158928.00",
+			"totalAmount": "65518210.40",
+			"DT_Row_Index": 38
+		},
+		{
+			"name": "Kumari Securities Pvt. Limited",
+			"number": "1",
+			"buyerAmount": "35410130.25",
+			"sellerAmount": "28092857.70",
+			"differ": 7317272.550000001,
+			"matchingAmount": "189120.00",
+			"totalAmount": "63502987.95",
+			"DT_Row_Index": 39
+		},
+		{
+			"name": "Thrive Brokerage House Pvt. Limited",
+			"number": "13",
+			"buyerAmount": "31571276.40",
+			"sellerAmount": "28601370.20",
+			"differ": 2969906.1999999993,
+			"matchingAmount": "916104.80",
+			"totalAmount": "60172646.60",
+			"DT_Row_Index": 40
+		},
+		{
+			"name": "Investment Management Nepal Pvt. Ltd.",
+			"number": "53",
+			"buyerAmount": "27288579.70",
+			"sellerAmount": "29218493.40",
+			"differ": -1929913.6999999993,
+			"matchingAmount": "233624.00",
+			"totalAmount": "56507073.10",
+			"DT_Row_Index": 41
+		},
+		{
+			"name": "SHUBHAKAMANA SECURITIES PVT. LTD",
+			"number": "71",
+			"buyerAmount": "29231500.00",
+			"sellerAmount": "26246372.00",
+			"differ": 2985128,
+			"matchingAmount": "583422.00",
+			"totalAmount": "55477872.00",
+			"DT_Row_Index": 42
+		},
+		{
+			"name": "Nabil Stock Dealer Limited",
+			"number": "77",
+			"buyerAmount": "33798514.70",
+			"sellerAmount": "21298666.10",
+			"differ": 12499848.600000001,
+			"matchingAmount": "1571658.00",
+			"totalAmount": "55097180.80",
+			"DT_Row_Index": 43
+		},
+		{
+			"name": "Ashutosh Brokerage &amp; Securities Pvt. Limited",
+			"number": "8",
+			"buyerAmount": "31702956.60",
+			"sellerAmount": "21369489.60",
+			"differ": 10333467,
+			"matchingAmount": "349847.80",
+			"totalAmount": "53072446.20",
+			"DT_Row_Index": 44
+		},
+		{
+			"name": "Miyo Securities Pvt Ltd",
+			"number": "66",
+			"buyerAmount": "25959604.70",
+			"sellerAmount": "26585207.00",
+			"differ": -625602.3000000007,
+			"matchingAmount": "124260.00",
+			"totalAmount": "52544811.70",
+			"DT_Row_Index": 45
+		},
+		{
+			"name": "Aakashbhairab Securities Ltd.",
+			"number": "81",
+			"buyerAmount": "31590920.40",
+			"sellerAmount": "18851404.70",
+			"differ": 12739515.7,
+			"matchingAmount": "14307078.00",
+			"totalAmount": "50442325.10",
+			"DT_Row_Index": 46
+		},
+		{
+			"name": "J.F. Securities Company Pvt. Limited",
+			"number": "7",
+			"buyerAmount": "21375782.00",
+			"sellerAmount": "27538074.60",
+			"differ": -6162292.6000000015,
+			"matchingAmount": "107329.20",
+			"totalAmount": "48913856.60",
+			"DT_Row_Index": 47
+		},
+		{
+			"name": "Kalika Securities Pvt.Limited",
+			"number": "46",
+			"buyerAmount": "25059956.40",
+			"sellerAmount": "18599756.20",
+			"differ": 6460200.199999999,
+			"matchingAmount": "654280.80",
+			"totalAmount": "43659712.60",
+			"DT_Row_Index": 48
+		},
+		{
+			"name": "Market Securities Exchange Company Pvt. Limited",
+			"number": "5",
+			"buyerAmount": "20599833.35",
+			"sellerAmount": "22431997.40",
+			"differ": -1832164.049999997,
+			"matchingAmount": "57648.00",
+			"totalAmount": "43031830.75",
+			"DT_Row_Index": 49
+		},
+		{
+			"name": "Malla &amp; Malla Stock Broking Company Pvt. Limited",
+			"number": "11",
+			"buyerAmount": "21335181.90",
+			"sellerAmount": "18078859.50",
+			"differ": 3256322.3999999985,
+			"matchingAmount": "211680.00",
+			"totalAmount": "39414041.40",
+			"DT_Row_Index": 50
+		},
+		{
+			"name": "Sewa Securities Pvt. Ltd.",
+			"number": "54",
+			"buyerAmount": "25672078.50",
+			"sellerAmount": "13396821.20",
+			"differ": 12275257.3,
+			"matchingAmount": "102349.00",
+			"totalAmount": "39068899.70",
+			"DT_Row_Index": 51
+		},
+		{
+			"name": "Creative Securities Pvt.Limited",
+			"number": "40",
+			"buyerAmount": "23316393.20",
+			"sellerAmount": "15636626.50",
+			"differ": 7679766.699999999,
+			"matchingAmount": "44810.00",
+			"totalAmount": "38953019.70",
+			"DT_Row_Index": 52
+		},
+		{
+			"name": "Pragyan Securities Pvt. Limited",
+			"number": "10",
+			"buyerAmount": "19758953.55",
+			"sellerAmount": "16831046.75",
+			"differ": 2927906.8000000007,
+			"matchingAmount": "41394.00",
+			"totalAmount": "36590000.30",
+			"DT_Row_Index": 53
+		},
+		{
+			"name": "SUN SECURITIES PVT LTD",
+			"number": "64",
+			"buyerAmount": "27282415.90",
+			"sellerAmount": "8863741.50",
+			"differ": 18418674.4,
+			"matchingAmount": "178912.80",
+			"totalAmount": "36146157.40",
+			"DT_Row_Index": 54
+		},
+		{
+			"name": "Nagarik Stock Dealer Company Ltd.",
+			"number": "60",
+			"buyerAmount": "23040118.70",
+			"sellerAmount": "13060618.20",
+			"differ": 9979500.5,
+			"matchingAmount": "7900.00",
+			"totalAmount": "36100736.90",
+			"DT_Row_Index": 55
+		},
+		{
+			"name": "Arun Securities Pvt. Limited",
+			"number": "3",
+			"buyerAmount": "16559318.60",
+			"sellerAmount": "17622483.50",
+			"differ": -1063164.9000000004,
+			"matchingAmount": "56600.00",
+			"totalAmount": "34181802.10",
+			"DT_Row_Index": 56
+		},
+		{
+			"name": "Property Wizard Limited",
+			"number": "67",
+			"buyerAmount": "5084554.50",
+			"sellerAmount": "27057765.60",
+			"differ": -21973211.1,
+			"matchingAmount": "88000.00",
+			"totalAmount": "32142320.10",
+			"DT_Row_Index": 57
+		},
+		{
+			"name": "Hatemalo Financial Services Private Limited",
+			"number": "72",
+			"buyerAmount": "16517518.40",
+			"sellerAmount": "14472117.00",
+			"differ": 2045401.4000000004,
+			"matchingAmount": "148000.00",
+			"totalAmount": "30989635.40",
+			"DT_Row_Index": 58
+		},
+		{
+			"name": "KALASH STOCK MARKET PVT. LTD.",
+			"number": "74",
+			"buyerAmount": "19850371.60",
+			"sellerAmount": "10980750.66",
+			"differ": 8869620.940000001,
+			"matchingAmount": "116428.00",
+			"totalAmount": "30831122.26",
+			"DT_Row_Index": 59
+		},
+		{
+			"name": "Sipla Securities Pvt. Limited",
+			"number": "20",
+			"buyerAmount": "19252099.40",
+			"sellerAmount": "11311920.10",
+			"differ": 7940179.299999999,
+			"matchingAmount": "130626.00",
+			"totalAmount": "30564019.50",
+			"DT_Row_Index": 60
+		},
+		{
+			"name": "Swarnalaxmi Securities Pvt.Limited",
+			"number": "37",
+			"buyerAmount": "17108786.64",
+			"sellerAmount": "13277348.70",
+			"differ": 3831437.9400000013,
+			"matchingAmount": "277228.00",
+			"totalAmount": "30386135.34",
+			"DT_Row_Index": 61
+		},
+		{
+			"name": "Sagarmatha Securities Pvt. Limited",
+			"number": "18",
+			"buyerAmount": "14261590.20",
+			"sellerAmount": "15090145.20",
+			"differ": -828555,
+			"matchingAmount": "41705.00",
+			"totalAmount": "29351735.40",
+			"DT_Row_Index": 62
+		},
+		{
+			"name": "Infinity Securities Limited",
+			"number": "70",
+			"buyerAmount": "14594482.10",
+			"sellerAmount": "10938529.10",
+			"differ": 3655953,
+			"matchingAmount": "429388.00",
+			"totalAmount": "25533011.20",
+			"DT_Row_Index": 63
+		},
+		{
+			"name": "Blue Chip Securities Ltd",
+			"number": "88",
+			"buyerAmount": "12349540.20",
+			"sellerAmount": "13120164.70",
+			"differ": -770624.5,
+			"matchingAmount": "703174.00",
+			"totalAmount": "25469704.90",
+			"DT_Row_Index": 64
+		},
+		{
+			"name": "N.M.B. SECURITIES LIMITED",
+			"number": "82",
+			"buyerAmount": "7484086.00",
+			"sellerAmount": "17341717.60",
+			"differ": -9857631.600000001,
+			"matchingAmount": "0.00",
+			"totalAmount": "24825803.60",
+			"DT_Row_Index": 65
+		},
+		{
+			"name": "MILKY WAY SHARE BROKER COMPANY LTD",
+			"number": "84",
+			"buyerAmount": "11307245.80",
+			"sellerAmount": "10224632.30",
+			"differ": 1082613.5,
+			"matchingAmount": "336000.00",
+			"totalAmount": "21531878.10",
+			"DT_Row_Index": 66
+		},
+		{
+			"name": "Stoxkarts Securities Limited",
+			"number": "86",
+			"buyerAmount": "9157815.70",
+			"sellerAmount": "4310946.60",
+			"differ": 4846869.1,
+			"matchingAmount": "0.00",
+			"totalAmount": "13468762.30",
+			"DT_Row_Index": 67
+		},
+		{
+			"name": "Mega Stock Markets Limited",
+			"number": "75",
+			"buyerAmount": "8440346.30",
+			"sellerAmount": "4254506.40",
+			"differ": 4185839.9000000004,
+			"matchingAmount": "0.00",
+			"totalAmount": "12694852.70",
+			"DT_Row_Index": 68
+		},
+		{
+			"name": "K.B.L. Securities Limited",
+			"number": "94",
+			"buyerAmount": "6051487.80",
+			"sellerAmount": "5976945.30",
+			"differ": 74542.5,
+			"matchingAmount": "0.00",
+			"totalAmount": "12028433.10",
+			"DT_Row_Index": 69
+		},
+		{
+			"name": "BHOLE GANESH SECURITIES LIMITED",
+			"number": "61",
+			"buyerAmount": "2960989.50",
+			"sellerAmount": "7721623.60",
+			"differ": -4760634.1,
+			"matchingAmount": "0.00",
+			"totalAmount": "10682613.10",
+			"DT_Row_Index": 70
+		},
+		{
+			"name": "Magnet Securities and Investment Company Private Limited",
+			"number": "95",
+			"buyerAmount": "7333053.20",
+			"sellerAmount": "1653077.00",
+			"differ": 5679976.2,
+			"matchingAmount": "0.00",
+			"totalAmount": "8986130.20",
+			"DT_Row_Index": 71
+		},
+		{
+			"name": "Himalayan Brokerage Company Limited",
+			"number": "63",
+			"buyerAmount": "3760563.00",
+			"sellerAmount": "4746478.70",
+			"differ": -985915.7000000002,
+			"matchingAmount": "0.00",
+			"totalAmount": "8507041.70",
+			"DT_Row_Index": 72
+		},
+		{
+			"name": "JBNL Securities ltd",
+			"number": "89",
+			"buyerAmount": "622910.00",
+			"sellerAmount": "7773666.50",
+			"differ": -7150756.5,
+			"matchingAmount": "0.00",
+			"totalAmount": "8396576.50",
+			"DT_Row_Index": 73
+		},
+		{
+			"name": "Elite Stock House Limited",
+			"number": "68",
+			"buyerAmount": "2829352.80",
+			"sellerAmount": "5003567.10",
+			"differ": -2174214.3,
+			"matchingAmount": "0.00",
+			"totalAmount": "7832919.90",
+			"DT_Row_Index": 74
+		},
+		{
+			"name": "Capital Hub P. Ltd",
+			"number": "85",
+			"buyerAmount": "5762513.20",
+			"sellerAmount": "2001524.00",
+			"differ": 3760989.2,
+			"matchingAmount": "628800.00",
+			"totalAmount": "7764037.20",
+			"DT_Row_Index": 75
+		},
+		{
+			"name": "Sanima Securities Limited",
+			"number": "83",
+			"buyerAmount": "4120298.70",
+			"sellerAmount": "2317003.40",
+			"differ": 1803295.3000000003,
+			"matchingAmount": "0.00",
+			"totalAmount": "6437302.10",
+			"DT_Row_Index": 76
+		},
+		{
+			"name": "Indira Securities Pvt. Ltd",
+			"number": "80",
+			"buyerAmount": "3517216.10",
+			"sellerAmount": "2210202.00",
+			"differ": 1307014.1,
+			"matchingAmount": "0.00",
+			"totalAmount": "5727418.10",
+			"DT_Row_Index": 77
+		},
+		{
+			"name": "C.B.I.L. Securities Limited",
+			"number": "91",
+			"buyerAmount": "2879617.40",
+			"sellerAmount": "2392396.00",
+			"differ": 487221.3999999999,
+			"matchingAmount": "0.00",
+			"totalAmount": "5272013.40",
+			"DT_Row_Index": 78
+		},
+		{
+			"name": "S.P.S.A. Securities Limited",
+			"number": "87",
+			"buyerAmount": "1489926.00",
+			"sellerAmount": "2644186.20",
+			"differ": -1154260.2000000002,
+			"matchingAmount": "0.00",
+			"totalAmount": "4134112.20",
+			"DT_Row_Index": 79
+		},
+		{
+			"name": "Garima Securities Limited",
+			"number": "78",
+			"buyerAmount": "1512880.00",
+			"sellerAmount": "1265561.20",
+			"differ": 247318.80000000005,
+			"matchingAmount": "0.00",
+			"totalAmount": "2778441.20",
+			"DT_Row_Index": 80
+		},
+		{
+			"name": "Money World Share Exchange PVT Ltd",
+			"number": "73",
+			"buyerAmount": "483100.00",
+			"sellerAmount": "2237454.20",
+			"differ": -1754354.2000000002,
+			"matchingAmount": "0.00",
+			"totalAmount": "2720554.20",
+			"DT_Row_Index": 81
+		},
+		{
+			"name": "Machhapuchchhre Securities Limited",
+			"number": "76",
+			"buyerAmount": "1669561.00",
+			"sellerAmount": "653759.30",
+			"differ": 1015801.7,
+			"matchingAmount": "0.00",
+			"totalAmount": "2323320.30",
+			"DT_Row_Index": 82
+		},
+		{
+			"name": "Sajilo Broker Limited",
+			"number": "90",
+			"buyerAmount": "791755.00",
+			"sellerAmount": "625313.00",
+			"differ": 166442,
+			"matchingAmount": "0.00",
+			"totalAmount": "1417068.00",
+			"DT_Row_Index": 83
+		},
+		{
+			"name": "Roadshow securities limited",
+			"number": "92",
+			"buyerAmount": "337808.00",
+			"sellerAmount": "703511.40",
+			"differ": -365703.4,
+			"matchingAmount": "0.00",
+			"totalAmount": "1041319.40",
+			"DT_Row_Index": 84
+		},
+		{
+			"name": "Beni Securities Pvt.Ltd.",
+			"number": "93",
+			"buyerAmount": "652139.00",
+			"sellerAmount": "195049.00",
+			"differ": 457090,
+			"matchingAmount": "0.00",
+			"totalAmount": "847188.00",
+			"DT_Row_Index": 85
+		},
+		{
+			"name": "Pahi Investment",
+			"number": "79",
+			"buyerAmount": "0.00",
+			"sellerAmount": "33434.00",
+			"differ": -33434,
+			"matchingAmount": "0.00",
+			"totalAmount": "33434.00",
+			"DT_Row_Index": 86
+		}
+	]
+}

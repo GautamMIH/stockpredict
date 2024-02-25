@@ -1,0 +1,520 @@
+{
+	"data": [
+		{
+			"contractQuantity": 142791,
+			"buyerBrokerName": "Sipla Securities Private Limited",
+			"buyerMemberId": "20",
+			"contractAmount": 76922027.19
+		},
+		{
+			"contractQuantity": 184176,
+			"buyerBrokerName": "Nepal Stock House (PVT) Ltd.",
+			"buyerMemberId": "14",
+			"contractAmount": 47420146.31
+		},
+		{
+			"contractQuantity": 101409,
+			"buyerBrokerName": "Investment Management Nepal Pvt. Ltd.",
+			"buyerMemberId": "53",
+			"contractAmount": 29198891.28
+		},
+		{
+			"contractQuantity": 209181,
+			"buyerBrokerName": "Kohinoor Investment & Securities Pvt. Ltd.",
+			"buyerMemberId": "35",
+			"contractAmount": 66781575.61
+		},
+		{
+			"contractQuantity": 124728,
+			"buyerBrokerName": "Trisul Securities & Invt. Ltd.",
+			"buyerMemberId": "29",
+			"contractAmount": 45645334.25
+		},
+		{
+			"contractQuantity": 338605,
+			"buyerBrokerName": "Imperial Securities Company Pvt. Ltd.",
+			"buyerMemberId": "45",
+			"contractAmount": 126762198.79
+		},
+		{
+			"contractQuantity": 131215,
+			"buyerBrokerName": "Sri Hari Securities Pvt. Ltd.",
+			"buyerMemberId": "56",
+			"contractAmount": 54910406.71
+		},
+		{
+			"contractQuantity": 138798,
+			"buyerBrokerName": "Primo Securities (PVT) Ltd.",
+			"buyerMemberId": "16",
+			"contractAmount": 46689668.1
+		},
+		{
+			"contractQuantity": 213694,
+			"buyerBrokerName": "Aryatara Investment & Securities",
+			"buyerMemberId": "57",
+			"contractAmount": 78560050.95
+		},
+		{
+			"contractQuantity": 182806,
+			"buyerBrokerName": "Trishakti Securities Public Limited",
+			"buyerMemberId": "48",
+			"contractAmount": 43996021.33
+		},
+		{
+			"contractQuantity": 376878,
+			"buyerBrokerName": "Naasa Securities Co. Ltd.",
+			"buyerMemberId": "58",
+			"contractAmount": 154231606.22
+		},
+		{
+			"contractQuantity": 144163,
+			"buyerBrokerName": "Dakshinkali Investment & Securities Pvt. Ltd.",
+			"buyerMemberId": "33",
+			"contractAmount": 60161129.76
+		},
+		{
+			"contractQuantity": 35324,
+			"buyerBrokerName": "Sewa Securities Pvt. Ltd.",
+			"buyerMemberId": "54",
+			"contractAmount": 12595333.49
+		},
+		{
+			"contractQuantity": 167083,
+			"buyerBrokerName": "Shree Krishna Securities Ltd.",
+			"buyerMemberId": "28",
+			"contractAmount": 57071402.72
+		},
+		{
+			"contractQuantity": 124876,
+			"buyerBrokerName": "Siprabi Securities Pvt. Ltd.",
+			"buyerMemberId": "22",
+			"contractAmount": 43334704.91
+		},
+		{
+			"contractQuantity": 120154,
+			"buyerBrokerName": "Cristal Kanchanjanga Securites Pvt. Ltd.",
+			"buyerMemberId": "50",
+			"contractAmount": 42061912.88
+		},
+		{
+			"contractQuantity": 48217,
+			"buyerBrokerName": "Creative Securities Pvt Ltd",
+			"buyerMemberId": "40",
+			"contractAmount": 14835105.1
+		},
+		{
+			"contractQuantity": 124513,
+			"buyerBrokerName": "Asian Securities Private Ltd.",
+			"buyerMemberId": "26",
+			"contractAmount": 42682127.93
+		},
+		{
+			"contractQuantity": 187084,
+			"buyerBrokerName": "Linch Stock Market Ltd.",
+			"buyerMemberId": "41",
+			"contractAmount": 57266407.3
+		},
+		{
+			"contractQuantity": 116407,
+			"buyerBrokerName": "Secured Securities Ltd.",
+			"buyerMemberId": "36",
+			"contractAmount": 42905818.79
+		},
+		{
+			"contractQuantity": 355575,
+			"buyerBrokerName": "Vision Securities Pvt. Ltd",
+			"buyerMemberId": "34",
+			"contractAmount": 126936538.73
+		},
+		{
+			"contractQuantity": 217746,
+			"buyerBrokerName": "Agrawal Securities (PVT) Ltd.",
+			"buyerMemberId": "6",
+			"contractAmount": 91336941.25
+		},
+		{
+			"contractQuantity": 162673,
+			"buyerBrokerName": "Deevyaa Securities & Stock House Pvt. Ltd",
+			"buyerMemberId": "59",
+			"contractAmount": 58042921.03
+		},
+		{
+			"contractQuantity": 147076,
+			"buyerBrokerName": "Sweta Securities Private Limited",
+			"buyerMemberId": "25",
+			"contractAmount": 64308849.71
+		},
+		{
+			"contractQuantity": 75778,
+			"buyerBrokerName": "Nepal Investment And Securities Trading Private Limited",
+			"buyerMemberId": "19",
+			"contractAmount": 30864624.59
+		},
+		{
+			"contractQuantity": 236700,
+			"buyerBrokerName": "Sharepro Securities Private Limited",
+			"buyerMemberId": "65",
+			"contractAmount": 103803118.2
+		},
+		{
+			"contractQuantity": 132489,
+			"buyerBrokerName": "Capital Max Securities Ltd",
+			"buyerMemberId": "62",
+			"contractAmount": 57262543.81
+		},
+		{
+			"contractQuantity": 26850,
+			"buyerBrokerName": "MILKY WAY SHARE BROKER COMPANY LTD ",
+			"buyerMemberId": "84",
+			"contractAmount": 12142662.28
+		},
+		{
+			"contractQuantity": 152852,
+			"buyerBrokerName": "ABC Securities Private Limited",
+			"buyerMemberId": "17",
+			"contractAmount": 60934161.06
+		},
+		{
+			"contractQuantity": 160675,
+			"buyerBrokerName": "Neev Securities Pvt. Ltd.",
+			"buyerMemberId": "47",
+			"contractAmount": 46175180.73
+		},
+		{
+			"contractQuantity": 51026,
+			"buyerBrokerName": "Infinity Securities Limited",
+			"buyerMemberId": "70",
+			"contractAmount": 19510681.3
+		},
+		{
+			"contractQuantity": 95734,
+			"buyerBrokerName": "Midas Stock Broking Company Private Limited",
+			"buyerMemberId": "21",
+			"contractAmount": 30728930.2
+		},
+		{
+			"contractQuantity": 397455,
+			"buyerBrokerName": "Dynamic Money Managers Securities Pvt. Ltd.",
+			"buyerMemberId": "44",
+			"contractAmount": 99258482.96
+		},
+		{
+			"contractQuantity": 186104,
+			"buyerBrokerName": "South Asian Bulls Pvt. Ltd.",
+			"buyerMemberId": "43",
+			"contractAmount": 43704479.39
+		},
+		{
+			"contractQuantity": 42225,
+			"buyerBrokerName": "Sagarmatha Securities Private Limited",
+			"buyerMemberId": "18",
+			"contractAmount": 16658571.5
+		},
+		{
+			"contractQuantity": 338804,
+			"buyerBrokerName": "Online Securities Pvt. Ltd.",
+			"buyerMemberId": "49",
+			"contractAmount": 84535201.08
+		},
+		{
+			"contractQuantity": 109674,
+			"buyerBrokerName": "Bhrikuti Stock Broking Co. Pvt. Ltd.",
+			"buyerMemberId": "55",
+			"contractAmount": 44873182.48
+		},
+		{
+			"contractQuantity": 213950,
+			"buyerBrokerName": "Oxford Securities Pvt. Ltd.",
+			"buyerMemberId": "51",
+			"contractAmount": 33838294.78
+		},
+		{
+			"contractQuantity": 37054,
+			"buyerBrokerName": "Stoxkarts Securities Limited",
+			"buyerMemberId": "86",
+			"contractAmount": 13594676.5
+		},
+		{
+			"contractQuantity": 61996,
+			"buyerBrokerName": "SUN SECURITIES PVT LTD",
+			"buyerMemberId": "64",
+			"contractAmount": 27793229.32
+		},
+		{
+			"contractQuantity": 200552,
+			"buyerBrokerName": "Premier Securities Company Ltd.",
+			"buyerMemberId": "32",
+			"contractAmount": 61340869.72
+		},
+		{
+			"contractQuantity": 127215,
+			"buyerBrokerName": "Sumeru Securities Pvt. Ltd.",
+			"buyerMemberId": "39",
+			"contractAmount": 53386391.97
+		},
+		{
+			"contractQuantity": 29963,
+			"buyerBrokerName": "Nagarik Stock Dealer ",
+			"buyerMemberId": "60",
+			"contractAmount": 13835886.58
+		},
+		{
+			"contractQuantity": 82962,
+			"buyerBrokerName": "Kumari Securities Private Limited",
+			"buyerMemberId": "1",
+			"contractAmount": 25292547.9
+		},
+		{
+			"contractQuantity": 59103,
+			"buyerBrokerName": "Hatemalo Financial Services Private Limited",
+			"buyerMemberId": "72",
+			"contractAmount": 26068787.5
+		},
+		{
+			"contractQuantity": 164964,
+			"buyerBrokerName": "KALASH STOCK MARKET PVT. LTD.",
+			"buyerMemberId": "74",
+			"contractAmount": 62893452.95
+		},
+		{
+			"contractQuantity": 82310,
+			"buyerBrokerName": "Thrive Brokerage House Pvt. Ltd",
+			"buyerMemberId": "13",
+			"contractAmount": 26724488.62
+		},
+		{
+			"contractQuantity": 320768,
+			"buyerBrokerName": "Dipshikha Dhitopatra Karobar Co. Pvt Ltd.",
+			"buyerMemberId": "38",
+			"contractAmount": 98707323.95
+		},
+		{
+			"contractQuantity": 90367,
+			"buyerBrokerName": "Sundhara Securities Limited",
+			"buyerMemberId": "52",
+			"contractAmount": 33956566.1
+		},
+		{
+			"contractQuantity": 974,
+			"buyerBrokerName": "Garima Securities Limited",
+			"buyerMemberId": "78",
+			"contractAmount": 572824.8
+		},
+		{
+			"contractQuantity": 59916,
+			"buyerBrokerName": "Kalika Securities Pvt. Ltd.",
+			"buyerMemberId": "46",
+			"contractAmount": 22727983.8
+		},
+		{
+			"contractQuantity": 310922,
+			"buyerBrokerName": "Sani Securities Company Ltd.",
+			"buyerMemberId": "42",
+			"contractAmount": 111699719.52
+		},
+		{
+			"contractQuantity": 83181,
+			"buyerBrokerName": "SHUBHAKAMANA SECURITIES PVT. LTD",
+			"buyerMemberId": "71",
+			"contractAmount": 40523958.49
+		},
+		{
+			"contractQuantity": 63936,
+			"buyerBrokerName": "Himalayan Brokerage Company Limited",
+			"buyerMemberId": "63",
+			"contractAmount": 16175797
+		},
+		{
+			"contractQuantity": 21244,
+			"buyerBrokerName": "N.M.B. SECURITIES LIMITED",
+			"buyerMemberId": "82",
+			"contractAmount": 9412038.6
+		},
+		{
+			"contractQuantity": 55149,
+			"buyerBrokerName": "Arun Securities (PVT) Ltd.",
+			"buyerMemberId": "3",
+			"contractAmount": 20768200.28
+		},
+		{
+			"contractQuantity": 54047,
+			"buyerBrokerName": "Malla & Malla Stock Broking Company Pvt. Limited",
+			"buyerMemberId": "11",
+			"contractAmount": 18424296.2
+		},
+		{
+			"contractQuantity": 71722,
+			"buyerBrokerName": "J.F. Securites (PVT) Ltd.",
+			"buyerMemberId": "7",
+			"contractAmount": 22971236.6
+		},
+		{
+			"contractQuantity": 331550,
+			"buyerBrokerName": "Opal Securities Investment (PVT) Ltd.",
+			"buyerMemberId": "4",
+			"contractAmount": 48788165.13
+		},
+		{
+			"contractQuantity": 68341,
+			"buyerBrokerName": "Ashutosh Brokerage & Securities (PVT) Ltd.",
+			"buyerMemberId": "8",
+			"contractAmount": 22565624.4
+		},
+		{
+			"contractQuantity": 70602,
+			"buyerBrokerName": "Blue Chip Securities Ltd",
+			"buyerMemberId": "88",
+			"contractAmount": 28525908.5
+		},
+		{
+			"contractQuantity": 36366,
+			"buyerBrokerName": "Property Wiard Limited",
+			"buyerMemberId": "67",
+			"contractAmount": 13372571.78
+		},
+		{
+			"contractQuantity": 66461,
+			"buyerBrokerName": "Market Securities & Exchange (PVT) Ltd.",
+			"buyerMemberId": "5",
+			"contractAmount": 21435027.31
+		},
+		{
+			"contractQuantity": 10070,
+			"buyerBrokerName": "Mega Stock Markets Limited",
+			"buyerMemberId": "75",
+			"contractAmount": 3780748
+		},
+		{
+			"contractQuantity": 30323,
+			"buyerBrokerName": "K.B.L. Securities Limited ",
+			"buyerMemberId": "94",
+			"contractAmount": 8302231.6
+		},
+		{
+			"contractQuantity": 11447,
+			"buyerBrokerName": "Magnet Securities and Investment Company Private Limited",
+			"buyerMemberId": "95",
+			"contractAmount": 4622865.3
+		},
+		{
+			"contractQuantity": 55804,
+			"buyerBrokerName": "Pragyan Securities (PVT) Ltd.",
+			"buyerMemberId": "10",
+			"contractAmount": 19402826.94
+		},
+		{
+			"contractQuantity": 41860,
+			"buyerBrokerName": "INDEX SECURITIES LIMITED",
+			"buyerMemberId": "69",
+			"contractAmount": 24571310.31
+		},
+		{
+			"contractQuantity": 54666,
+			"buyerBrokerName": "Miyo Securities Pvt Ltd",
+			"buyerMemberId": "66",
+			"contractAmount": 27445700.4
+		},
+		{
+			"contractQuantity": 31394,
+			"buyerBrokerName": "Swarna Laxmi Securities Pvt. Ltd.",
+			"buyerMemberId": "37",
+			"contractAmount": 11798080.5
+		},
+		{
+			"contractQuantity": 12737,
+			"buyerBrokerName": "Sanima Securities Limited",
+			"buyerMemberId": "83",
+			"contractAmount": 5099203.8
+		},
+		{
+			"contractQuantity": 54520,
+			"buyerBrokerName": "Nabil Stock Dealer Ltd.",
+			"buyerMemberId": "77",
+			"contractAmount": 25157386.31
+		},
+		{
+			"contractQuantity": 18654,
+			"buyerBrokerName": "BHOLE GANESH SECURITIES LTD",
+			"buyerMemberId": "61",
+			"contractAmount": 7049929.09
+		},
+		{
+			"contractQuantity": 8267,
+			"buyerBrokerName": "Indira securities pvt. ltd",
+			"buyerMemberId": "80",
+			"contractAmount": 2591599
+		},
+		{
+			"contractQuantity": 16918,
+			"buyerBrokerName": "Elite Stock House Limited",
+			"buyerMemberId": "68",
+			"contractAmount": 6999180.2
+		},
+		{
+			"contractQuantity": 3990,
+			"buyerBrokerName": "Beni Securities Pvt.Ltd.",
+			"buyerMemberId": "93",
+			"contractAmount": 2655022.4
+		},
+		{
+			"contractQuantity": 4254,
+			"buyerBrokerName": "S.P.S.A. Securities Limited",
+			"buyerMemberId": "87",
+			"contractAmount": 2341282.5
+		},
+		{
+			"contractQuantity": 21679,
+			"buyerBrokerName": "Aakashbhairab Securities Ltd.",
+			"buyerMemberId": "81",
+			"contractAmount": 10638843
+		},
+		{
+			"contractQuantity": 1851,
+			"buyerBrokerName": "Sajilo Broker Limited",
+			"buyerMemberId": "90",
+			"contractAmount": 592573.3
+		},
+		{
+			"contractQuantity": 8332,
+			"buyerBrokerName": "JBNL Securities ltd",
+			"buyerMemberId": "89",
+			"contractAmount": 4023970
+		},
+		{
+			"contractQuantity": 22046,
+			"buyerBrokerName": "Capital Hub P. Ltd",
+			"buyerMemberId": "85",
+			"contractAmount": 8252932.5
+		},
+		{
+			"contractQuantity": 3110,
+			"buyerBrokerName": "Roadshow securities limited",
+			"buyerMemberId": "92",
+			"contractAmount": 541315
+		},
+		{
+			"contractQuantity": 232365,
+			"buyerBrokerName": "C.B.I.L. Securities Limited",
+			"buyerMemberId": "91",
+			"contractAmount": 15951615.4
+		},
+		{
+			"contractQuantity": 6335,
+			"buyerBrokerName": "Machhapuchchhre Securities Limited",
+			"buyerMemberId": "76",
+			"contractAmount": 3721921.5
+		},
+		{
+			"contractQuantity": 200,
+			"buyerBrokerName": "pahiinvestment",
+			"buyerMemberId": "79",
+			"contractAmount": 58240
+		},
+		{
+			"contractQuantity": 100,
+			"buyerBrokerName": "Money World Share Exchange PVT Ltd",
+			"buyerMemberId": "73",
+			"contractAmount": 63440
+		}
+	]
+}

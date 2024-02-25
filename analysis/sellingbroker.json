@@ -1,0 +1,479 @@
+{
+	"status": 200,
+	"data": [
+		{
+			"contractQuantity": 22661,
+			"sellerBrokerName": "Dipshikha Dhitopatra Karobar Co. Pvt Ltd.",
+			"sellerMemberId": "38",
+			"contractAmount": 6714600.5
+		},
+		{
+			"contractQuantity": 17606,
+			"sellerBrokerName": "Nepal Stock House (PVT) Ltd.",
+			"sellerMemberId": "14",
+			"contractAmount": 5565780.87
+		},
+		{
+			"contractQuantity": 25230,
+			"sellerBrokerName": "Naasa Securities Co. Ltd.",
+			"sellerMemberId": "58",
+			"contractAmount": 9293455.21
+		},
+		{
+			"contractQuantity": 3349,
+			"sellerBrokerName": "Capital Max Securities Ltd",
+			"sellerMemberId": "62",
+			"contractAmount": 1189232.8
+		},
+		{
+			"contractQuantity": 10969,
+			"sellerBrokerName": "ABC Securities Private Limited",
+			"sellerMemberId": "17",
+			"contractAmount": 4296070.81
+		},
+		{
+			"contractQuantity": 1010,
+			"sellerBrokerName": "Garima Securities Limited",
+			"sellerMemberId": "78",
+			"contractAmount": 542689
+		},
+		{
+			"contractQuantity": 11464,
+			"sellerBrokerName": "Kalika Securities Pvt. Ltd.",
+			"sellerMemberId": "46",
+			"contractAmount": 2206374.07
+		},
+		{
+			"contractQuantity": 1848,
+			"sellerBrokerName": "Sharepro Securities Private Limited",
+			"sellerMemberId": "65",
+			"contractAmount": 451601.2
+		},
+		{
+			"contractQuantity": 3429,
+			"sellerBrokerName": "Agrawal Securities (PVT) Ltd.",
+			"sellerMemberId": "6",
+			"contractAmount": 1325687.8
+		},
+		{
+			"contractQuantity": 4139,
+			"sellerBrokerName": "Kumari Securities Private Limited",
+			"sellerMemberId": "1",
+			"contractAmount": 1767941.29
+		},
+		{
+			"contractQuantity": 22676,
+			"sellerBrokerName": "Aryatara Investment & Securities",
+			"sellerMemberId": "57",
+			"contractAmount": 6275891.71
+		},
+		{
+			"contractQuantity": 15561,
+			"sellerBrokerName": "Online Securities Pvt. Ltd.",
+			"sellerMemberId": "49",
+			"contractAmount": 3756087.3
+		},
+		{
+			"contractQuantity": 2408,
+			"sellerBrokerName": "Sewa Securities Pvt. Ltd.",
+			"sellerMemberId": "54",
+			"contractAmount": 800838.5
+		},
+		{
+			"contractQuantity": 2996,
+			"sellerBrokerName": "JBNL Securities ltd",
+			"sellerMemberId": "89",
+			"contractAmount": 888556
+		},
+		{
+			"contractQuantity": 25329,
+			"sellerBrokerName": "Imperial Securities Company Pvt. Ltd.",
+			"sellerMemberId": "45",
+			"contractAmount": 9109459.79
+		},
+		{
+			"contractQuantity": 19070,
+			"sellerBrokerName": "Sani Securities Company Ltd.",
+			"sellerMemberId": "42",
+			"contractAmount": 6440849.89
+		},
+		{
+			"contractQuantity": 823,
+			"sellerBrokerName": "KALASH STOCK MARKET PVT. LTD.",
+			"sellerMemberId": "74",
+			"contractAmount": 312474.7
+		},
+		{
+			"contractQuantity": 4902,
+			"sellerBrokerName": "Nepal Investment And Securities Trading Private Limited",
+			"sellerMemberId": "19",
+			"contractAmount": 2862947.6
+		},
+		{
+			"contractQuantity": 168,
+			"sellerBrokerName": "Hatemalo Financial Services Private Limited",
+			"sellerMemberId": "72",
+			"contractAmount": 63767.8
+		},
+		{
+			"contractQuantity": 7539,
+			"sellerBrokerName": "Midas Stock Broking Company Private Limited",
+			"sellerMemberId": "21",
+			"contractAmount": 3061453.5
+		},
+		{
+			"contractQuantity": 2968,
+			"sellerBrokerName": "J.F. Securites (PVT) Ltd.",
+			"sellerMemberId": "7",
+			"contractAmount": 1097953.4
+		},
+		{
+			"contractQuantity": 5242,
+			"sellerBrokerName": "Kohinoor Investment & Securities Pvt. Ltd.",
+			"sellerMemberId": "35",
+			"contractAmount": 2456146.2
+		},
+		{
+			"contractQuantity": 8507,
+			"sellerBrokerName": "Neev Securities Pvt. Ltd.",
+			"sellerMemberId": "47",
+			"contractAmount": 2785392.29
+		},
+		{
+			"contractQuantity": 5620,
+			"sellerBrokerName": "Siprabi Securities Pvt. Ltd.",
+			"sellerMemberId": "22",
+			"contractAmount": 1780527.6
+		},
+		{
+			"contractQuantity": 8951,
+			"sellerBrokerName": "Dynamic Money Managers Securities Pvt. Ltd.",
+			"sellerMemberId": "44",
+			"contractAmount": 2608898.4
+		},
+		{
+			"contractQuantity": 14757,
+			"sellerBrokerName": "Trisul Securities & Invt. Ltd.",
+			"sellerMemberId": "29",
+			"contractAmount": 5687699.9
+		},
+		{
+			"contractQuantity": 5154,
+			"sellerBrokerName": "Primo Securities (PVT) Ltd.",
+			"sellerMemberId": "16",
+			"contractAmount": 2073878.3
+		},
+		{
+			"contractQuantity": 5463,
+			"sellerBrokerName": "Trishakti Securities Public Limited",
+			"sellerMemberId": "48",
+			"contractAmount": 1876245
+		},
+		{
+			"contractQuantity": 4533,
+			"sellerBrokerName": "Bhrikuti Stock Broking Co. Pvt. Ltd.",
+			"sellerMemberId": "55",
+			"contractAmount": 1490009
+		},
+		{
+			"contractQuantity": 29077,
+			"sellerBrokerName": "Vision Securities Pvt. Ltd",
+			"sellerMemberId": "34",
+			"contractAmount": 10002887.19
+		},
+		{
+			"contractQuantity": 3027,
+			"sellerBrokerName": "Elite Stock House Limited",
+			"sellerMemberId": "68",
+			"contractAmount": 941959.8
+		},
+		{
+			"contractQuantity": 5490,
+			"sellerBrokerName": "Cristal Kanchanjanga Securites Pvt. Ltd.",
+			"sellerMemberId": "50",
+			"contractAmount": 2082249.3
+		},
+		{
+			"contractQuantity": 1619,
+			"sellerBrokerName": "Creative Securities Pvt Ltd",
+			"sellerMemberId": "40",
+			"contractAmount": 630164
+		},
+		{
+			"contractQuantity": 7520,
+			"sellerBrokerName": "Premier Securities Company Ltd.",
+			"sellerMemberId": "32",
+			"contractAmount": 2586924.3
+		},
+		{
+			"contractQuantity": 6868,
+			"sellerBrokerName": "Deevyaa Securities & Stock House Pvt. Ltd",
+			"sellerMemberId": "59",
+			"contractAmount": 2790473.5
+		},
+		{
+			"contractQuantity": 5445,
+			"sellerBrokerName": "Sundhara Securities Limited",
+			"sellerMemberId": "52",
+			"contractAmount": 2362654.1
+		},
+		{
+			"contractQuantity": 3287,
+			"sellerBrokerName": "Sweta Securities Private Limited",
+			"sellerMemberId": "25",
+			"contractAmount": 1531826.41
+		},
+		{
+			"contractQuantity": 9155,
+			"sellerBrokerName": "Secured Securities Ltd.",
+			"sellerMemberId": "36",
+			"contractAmount": 3319237.1
+		},
+		{
+			"contractQuantity": 5871,
+			"sellerBrokerName": "Linch Stock Market Ltd.",
+			"sellerMemberId": "41",
+			"contractAmount": 1907347
+		},
+		{
+			"contractQuantity": 9804,
+			"sellerBrokerName": "Thrive Brokerage House Pvt. Ltd",
+			"sellerMemberId": "13",
+			"contractAmount": 2237138.1
+		},
+		{
+			"contractQuantity": 11873,
+			"sellerBrokerName": "Sri Hari Securities Pvt. Ltd.",
+			"sellerMemberId": "56",
+			"contractAmount": 5829034.5
+		},
+		{
+			"contractQuantity": 4981,
+			"sellerBrokerName": "Dakshinkali Investment & Securities Pvt. Ltd.",
+			"sellerMemberId": "33",
+			"contractAmount": 1785377.7
+		},
+		{
+			"contractQuantity": 11037,
+			"sellerBrokerName": "Oxford Securities Pvt. Ltd.",
+			"sellerMemberId": "51",
+			"contractAmount": 7419403.4
+		},
+		{
+			"contractQuantity": 31827,
+			"sellerBrokerName": "Opal Securities Investment (PVT) Ltd.",
+			"sellerMemberId": "4",
+			"contractAmount": 21097849.8
+		},
+		{
+			"contractQuantity": 9314,
+			"sellerBrokerName": "Shree Krishna Securities Ltd.",
+			"sellerMemberId": "28",
+			"contractAmount": 2880572.5
+		},
+		{
+			"contractQuantity": 8211,
+			"sellerBrokerName": "Blue Chip Securities Ltd",
+			"sellerMemberId": "88",
+			"contractAmount": 2197628.8
+		},
+		{
+			"contractQuantity": 2320,
+			"sellerBrokerName": "Asian Securities Private Ltd.",
+			"sellerMemberId": "26",
+			"contractAmount": 760907.1
+		},
+		{
+			"contractQuantity": 2173,
+			"sellerBrokerName": "Nagarik Stock Dealer ",
+			"sellerMemberId": "60",
+			"contractAmount": 434423
+		},
+		{
+			"contractQuantity": 17119,
+			"sellerBrokerName": "South Asian Bulls Pvt. Ltd.",
+			"sellerMemberId": "43",
+			"contractAmount": 6269431.5
+		},
+		{
+			"contractQuantity": 1705,
+			"sellerBrokerName": "Stoxkarts Securities Limited",
+			"sellerMemberId": "86",
+			"contractAmount": 550381
+		},
+		{
+			"contractQuantity": 160,
+			"sellerBrokerName": "K.B.L. Securities Limited ",
+			"sellerMemberId": "94",
+			"contractAmount": 75104
+		},
+		{
+			"contractQuantity": 40,
+			"sellerBrokerName": "Magnet Securities and Investment Company Private Limited",
+			"sellerMemberId": "95",
+			"contractAmount": 18861
+		},
+		{
+			"contractQuantity": 16253,
+			"sellerBrokerName": "Sumeru Securities Pvt. Ltd.",
+			"sellerMemberId": "39",
+			"contractAmount": 4623214.53
+		},
+		{
+			"contractQuantity": 10509,
+			"sellerBrokerName": "Market Securities & Exchange (PVT) Ltd.",
+			"sellerMemberId": "5",
+			"contractAmount": 3627208.2
+		},
+		{
+			"contractQuantity": 4727,
+			"sellerBrokerName": "Pragyan Securities (PVT) Ltd.",
+			"sellerMemberId": "10",
+			"contractAmount": 2798150
+		},
+		{
+			"contractQuantity": 3330,
+			"sellerBrokerName": "Nabil Stock Dealer Ltd.",
+			"sellerMemberId": "77",
+			"contractAmount": 1409763
+		},
+		{
+			"contractQuantity": 2102,
+			"sellerBrokerName": "Ashutosh Brokerage & Securities (PVT) Ltd.",
+			"sellerMemberId": "8",
+			"contractAmount": 499575
+		},
+		{
+			"contractQuantity": 2334,
+			"sellerBrokerName": "BHOLE GANESH SECURITIES LTD",
+			"sellerMemberId": "61",
+			"contractAmount": 687760.5
+		},
+		{
+			"contractQuantity": 3432,
+			"sellerBrokerName": "Miyo Securities Pvt Ltd",
+			"sellerMemberId": "66",
+			"contractAmount": 1216062
+		},
+		{
+			"contractQuantity": 3787,
+			"sellerBrokerName": "Malla & Malla Stock Broking Company Pvt. Limited",
+			"sellerMemberId": "11",
+			"contractAmount": 1621664
+		},
+		{
+			"contractQuantity": 2448,
+			"sellerBrokerName": "Aakashbhairab Securities Ltd.",
+			"sellerMemberId": "81",
+			"contractAmount": 844733.8
+		},
+		{
+			"contractQuantity": 1106,
+			"sellerBrokerName": "N.M.B. SECURITIES LIMITED",
+			"sellerMemberId": "82",
+			"contractAmount": 792818
+		},
+		{
+			"contractQuantity": 1077,
+			"sellerBrokerName": "Capital Hub P. Ltd",
+			"sellerMemberId": "85",
+			"contractAmount": 356103.5
+		},
+		{
+			"contractQuantity": 930,
+			"sellerBrokerName": "Himalayan Brokerage Company Limited",
+			"sellerMemberId": "63",
+			"contractAmount": 567430
+		},
+		{
+			"contractQuantity": 685,
+			"sellerBrokerName": "SUN SECURITIES PVT LTD",
+			"sellerMemberId": "64",
+			"contractAmount": 286397.4
+		},
+		{
+			"contractQuantity": 1092,
+			"sellerBrokerName": "Arun Securities (PVT) Ltd.",
+			"sellerMemberId": "3",
+			"contractAmount": 427298
+		},
+		{
+			"contractQuantity": 1700,
+			"sellerBrokerName": "Investment Management Nepal Pvt. Ltd.",
+			"sellerMemberId": "53",
+			"contractAmount": 695439
+		},
+		{
+			"contractQuantity": 5290,
+			"sellerBrokerName": "SHUBHAKAMANA SECURITIES PVT. LTD",
+			"sellerMemberId": "71",
+			"contractAmount": 1581192.2
+		},
+		{
+			"contractQuantity": 2530,
+			"sellerBrokerName": "Swarna Laxmi Securities Pvt. Ltd.",
+			"sellerMemberId": "37",
+			"contractAmount": 800463.61
+		},
+		{
+			"contractQuantity": 410,
+			"sellerBrokerName": "Sipla Securities Private Limited",
+			"sellerMemberId": "20",
+			"contractAmount": 179711
+		},
+		{
+			"contractQuantity": 773,
+			"sellerBrokerName": "Mega Stock Markets Limited",
+			"sellerMemberId": "75",
+			"contractAmount": 374082
+		},
+		{
+			"contractQuantity": 1198,
+			"sellerBrokerName": "Sagarmatha Securities Private Limited",
+			"sellerMemberId": "18",
+			"contractAmount": 366572
+		},
+		{
+			"contractQuantity": 10550,
+			"sellerBrokerName": "MILKY WAY SHARE BROKER COMPANY LTD ",
+			"sellerMemberId": "84",
+			"contractAmount": 2599071
+		},
+		{
+			"contractQuantity": 820,
+			"sellerBrokerName": "INDEX SECURITIES LIMITED",
+			"sellerMemberId": "69",
+			"contractAmount": 281618
+		},
+		{
+			"contractQuantity": 2700,
+			"sellerBrokerName": "Property Wiard Limited",
+			"sellerMemberId": "67",
+			"contractAmount": 848538
+		},
+		{
+			"contractQuantity": 20,
+			"sellerBrokerName": "S.P.S.A. Securities Limited",
+			"sellerMemberId": "87",
+			"contractAmount": 13420
+		},
+		{
+			"contractQuantity": 3000,
+			"sellerBrokerName": "Infinity Securities Limited",
+			"sellerMemberId": "70",
+			"contractAmount": 612605.4
+		},
+		{
+			"contractQuantity": 500,
+			"sellerBrokerName": "Sanima Securities Limited",
+			"sellerMemberId": "83",
+			"contractAmount": 92000
+		},
+		{
+			"contractQuantity": 25,
+			"sellerBrokerName": "Indira securities pvt. ltd",
+			"sellerMemberId": "80",
+			"contractAmount": 21000
+		}
+	]
+}
