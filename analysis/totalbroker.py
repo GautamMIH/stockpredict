@@ -57,5 +57,5 @@ json_data = json.dumps(table_data, indent=4)
 print(json_data)
 
 # If you want to save the JSON data to a file, you can do:
-with open('totalbroker.json', 'w') as json_file:
+with open('jsondata/totalbroker.json', 'w') as json_file:
     json_file.write(json_data)

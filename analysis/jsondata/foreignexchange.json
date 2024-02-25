@@ -1,0 +1,37 @@
+[
+    {
+        "currency": "Currency",
+        "buy": "Buy",
+        "sell": "Sell"
+    },
+    {
+        "currency": "USD",
+        "buy": "132.41",
+        "sell": "133.01"
+    },
+    {
+        "currency": "EUR",
+        "buy": "143.40",
+        "sell": "144.05"
+    },
+    {
+        "currency": "GBP",
+        "buy": "167.92",
+        "sell": "168.68"
+    },
+    {
+        "currency": "AUD",
+        "buy": "86.94",
+        "sell": "87.33"
+    },
+    {
+        "currency": "SGD",
+        "buy": "98.49",
+        "sell": "98.93"
+    },
+    {
+        "currency": "JPY",
+        "buy": "8.79",
+        "sell": "8.83"
+    }
+]

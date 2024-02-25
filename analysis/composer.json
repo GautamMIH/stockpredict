@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-webdriver/webdriver": "^1.1",
+        "browsermob/browsermob-proxy": "^0.11.0"
+    }
+
+}

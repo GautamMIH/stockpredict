@@ -1,0 +1,9 @@
+Running BrowserMob Proxy using LittleProxy implementation. To revert to the legacy implementation, run the proxy with the command-line option '--use-littleproxy false'.
+[INFO  2024-02-25T13:49:11,504 net.lightbody.bmp.proxy.Main] (main) Starting BrowserMob Proxy version 2.1.4 
+[INFO  2024-02-25T13:49:11,531 org.eclipse.jetty.util.log] (main) jetty-7.x.y-SNAPSHOT 
+[INFO  2024-02-25T13:49:11,642 org.eclipse.jetty.util.log] (main) started o.e.j.s.ServletContextHandler{/,null} 
+[INFO  2024-02-25T13:49:11,720 org.eclipse.jetty.util.log] (main) Started SelectChannelConnector@0.0.0.0:8080 
+[INFO  2024-02-25T13:49:12,803 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp28968769-17) Starting proxy at address: 0.0.0.0/0.0.0.0:8081 
+[INFO  2024-02-25T13:49:12,823 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp28968769-17) Proxy listening with TCP transport 
+[INFO  2024-02-25T13:49:13,004 org.littleshoot.proxy.impl.DefaultHttpProxyServer] (qtp28968769-17) Proxy started at address: /0:0:0:0:0:0:0:0:8081 
+^C

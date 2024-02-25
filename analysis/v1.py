@@ -29,7 +29,7 @@ encoded_json = encoded_json.replace('"{"', '{"', 1)
 encoded_json = encoded_json[::-1].replace('}"', '}', 1)[::-1]
 
 # Save the JSON data to a file
-with open("heatmap.json", "w") as json_file:
+with open("jsondata/heatmap.json", "w") as json_file:
     json_file.write(encoded_json)
 
 print("JSON data saved to heatmap.json file.")

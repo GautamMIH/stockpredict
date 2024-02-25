@@ -1,0 +1,54 @@
+[
+    [
+        "Life Insur.",
+        "SNLI < ILI < HLI < CLI < ALICL"
+    ],
+    [
+        "Hydropower",
+        "JOSHI < NGPL < GHL < SMJC < MHCL"
+    ],
+    [
+        "Others",
+        "HRL < NRIC < NTC < NWCL < NRM"
+    ],
+    [
+        "Finance",
+        "GUFL < NFS < ICFC < RLFL < BFC"
+    ],
+    [
+        "Commercial.",
+        "NICA < NABIL < EBL < GBIME < NBL"
+    ],
+    [
+        "Manufactur.",
+        "SONA < HDL < SHIVM < BNT < GCIL"
+    ],
+    [
+        "Investment",
+        "NRN < CIT < HATHY < NIFRA < HIDCL"
+    ],
+    [
+        "Developmen.",
+        "SHINE < GBBL < KSBBL < LBBL < KRBL"
+    ],
+    [
+        "Non-Life I.",
+        "SPIL < SGIC < NICL < IGI < SICL"
+    ],
+    [
+        "Microfinan.",
+        "SAMAJ < FMDBL < CBBL < NUBL < SKBBL"
+    ],
+    [
+        "Hotel & To.",
+        "SHL < CGH < CITY < KDL < TRH"
+    ],
+    [
+        "Trading",
+        "STC < BBC"
+    ],
+    [
+        "Mutual Fun.",
+        "NIBSF2 < NICGF < LEMF < PSF < PRSF"
+    ]
+]

@@ -6,7 +6,7 @@ $python_command = 'python totalbroker.py';
 // Execute the Python script and capture its output
 // Use escapeshellcmd to properly escape the command
 shell_exec(escapeshellcmd($python_command));
-$json_file_path = 'totalbroker.json';
+$json_file_path = 'jsondata/totalbroker.json';
 // Print the output (JSON data) received from the Python script
 
 if (file_exists($json_file_path)) {

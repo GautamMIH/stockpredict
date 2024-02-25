@@ -1,0 +1,42 @@
+[
+    {
+        "Index": "NEPSE Index",
+        "Open": "2,007.41",
+        "High": "2,011.64",
+        "Low": "1,977.39",
+        "Close": "1,979.02",
+        "Point Change": "-26.81",
+        "% Change": "-1.33",
+        "Turnover": "3,086,951,070.50"
+    },
+    {
+        "Index": "Sensitive Index",
+        "Open": "359.61",
+        "High": "360.87",
+        "Low": "353.83",
+        "Close": "353.83",
+        "Point Change": "-5.74",
+        "% Change": "-1.59",
+        "Turnover": "682,066,418.40"
+    },
+    {
+        "Index": "Float Index",
+        "Open": "136.81",
+        "High": "137.12",
+        "Low": "134.68",
+        "Close": "134.76",
+        "Point Change": "-1.92",
+        "% Change": "-1.41",
+        "Turnover": "3,067,316,424.40"
+    },
+    {
+        "Index": "Sensitive Float Index",
+        "Open": "117.72",
+        "High": "118.22",
+        "Low": "115.65",
+        "Close": "115.68",
+        "Point Change": "-2.04",
+        "% Change": "-1.73",
+        "Turnover": "673,862,261.10"
+    }
+]
