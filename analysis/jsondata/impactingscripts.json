@@ -1,54 +1,54 @@
 [
     [
-        "Life Insur.",
-        "SNLI < ILI < HLI < CLI < ALICL"
-    ],
-    [
-        "Hydropower",
-        "JOSHI < NGPL < GHL < SMJC < MHCL"
+        "Manufactur.",
+        "SONA < SHIVM < HDL < GCIL < BNT"
     ],
     [
         "Others",
-        "HRL < NRIC < NTC < NWCL < NRM"
+        "HRL < NRIC < NWCL < NRM < NTC"
     ],
     [
         "Finance",
-        "GUFL < NFS < ICFC < RLFL < BFC"
+        "GUFL < NFS < ICFC < SFCL < BFC"
+    ],
+    [
+        "Life Insur.",
+        "SNLI < SJLIC < ILI < NLIC < HLI"
     ],
     [
         "Commercial.",
-        "NICA < NABIL < EBL < GBIME < NBL"
-    ],
-    [
-        "Manufactur.",
-        "SONA < HDL < SHIVM < BNT < GCIL"
+        "NICA < NABIL < KBL < SBL < NIMB"
     ],
     [
         "Investment",
-        "NRN < CIT < HATHY < NIFRA < HIDCL"
+        "NRN < HATHY < NIFRA < CIT < HIDCL"
     ],
     [
-        "Developmen.",
-        "SHINE < GBBL < KSBBL < LBBL < KRBL"
+        "Hydropower",
+        "NGPL < MHCL < JOSHI < SMJC < GHL"
     ],
     [
         "Non-Life I.",
-        "SPIL < SGIC < NICL < IGI < SICL"
-    ],
-    [
-        "Microfinan.",
-        "SAMAJ < FMDBL < CBBL < NUBL < SKBBL"
+        "NICL < IGI < SGIC < SPIL < SICL"
     ],
     [
         "Hotel & To.",
-        "SHL < CGH < CITY < KDL < TRH"
+        "CGH < SHL < KDL < CITY < TRH"
     ],
     [
         "Trading",
         "STC < BBC"
     ],
     [
+        "Developmen.",
+        "SHINE < GBBL < KSBBL < JBBL < MNBBL"
+    ],
+    [
+        "Microfinan.",
+        "CBBL < CYCL < FMDBL < JBLB < SKBBL"
+    ],
+    [
         "Mutual Fun.",
-        "NIBSF2 < NICGF < LEMF < PSF < PRSF"
+        "SIGS2 < NICGF < SAEF < NIBSF2 < NICSF"
     ]
 ]
